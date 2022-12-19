@@ -1,0 +1,1 @@
+/home/ano/Desktop/yolo_ws/devel/.private/yolo_pkg/share/yolo_pkg/cmake/yolo_pkgConfig-version.cmake

@@ -1,0 +1,5 @@
+yolo_pkg
+/home/ano/Desktop/yolo_ws/devel/.private/yolo_pkg/cmake.lock /home/ano/Desktop/yolo_ws/devel/./cmake.lock
+/home/ano/Desktop/yolo_ws/devel/.private/yolo_pkg/lib/pkgconfig/yolo_pkg.pc /home/ano/Desktop/yolo_ws/devel/lib/pkgconfig/yolo_pkg.pc
+/home/ano/Desktop/yolo_ws/devel/.private/yolo_pkg/share/yolo_pkg/cmake/yolo_pkgConfig-version.cmake /home/ano/Desktop/yolo_ws/devel/share/yolo_pkg/cmake/yolo_pkgConfig-version.cmake
+/home/ano/Desktop/yolo_ws/devel/.private/yolo_pkg/share/yolo_pkg/cmake/yolo_pkgConfig.cmake /home/ano/Desktop/yolo_ws/devel/share/yolo_pkg/cmake/yolo_pkgConfig.cmake
